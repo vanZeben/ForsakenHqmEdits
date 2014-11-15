@@ -1,0 +1,15 @@
+[
+{
+	"modid": "ForsakenTweaks",
+	"name": "ForsakenTweaks",
+	"description": "Mod that changes the way others work",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"url": "http://www.forsaken.co",
+	"authorList": [ "Blargerist", "vanZeben" ],
+	"credits": "Authored by Blargerist, Abstracted/Adapted by vanZeben",
+	"screenshots": [],
+	"parent":"",
+	"dependencies": []
+}
+]
